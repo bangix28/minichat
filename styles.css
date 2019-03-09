@@ -1,0 +1,18 @@
+body
+{
+	background: url(background.png);
+}
+
+.container
+{
+	text-align: center;
+}
+.block_chat
+{
+	width: 400px;
+	border:2px solid black;
+	border-radius: 4px;
+	background-color: blue;
+	
+}
+
